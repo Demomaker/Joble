@@ -1,0 +1,9 @@
+body, menu, menuitem {
+    background-color: white;
+    color: #212121;
+}
+
+body.night, menu.night, menuitem.night {
+    background-color: #181818;
+    color: white;
+}
