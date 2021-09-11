@@ -19,12 +19,7 @@ function createWindow () {
     // and load the index.html of the app.
     mainWin.loadFile('index.html');
     mainWin.webContents.openDevTools();
-    Menu.setApplicationMenu(menu);
-
-    menu.getMenuItemById('darkmodepref').click = () => {
-      mainWin.webContents.send('toggle-dark-mode');
-    }
-  
+    Menu.setApplicationMenu(null);
   }
 
   app.whenReady().then(createWindow)

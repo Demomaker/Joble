@@ -1,6 +1,7 @@
 const menuTemplate = [
     {
         label: 'Preferences',
+        id: 'preferences',
         submenu: [
             {
                 label:'Toggle Darkmode',
