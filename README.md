@@ -1,4 +1,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Electron App Template
+# Joble
 
-This is a template for electron apps.
+Joble is an app that lets you manage your career easily
