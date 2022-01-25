@@ -4,8 +4,7 @@ html, body {
   padding: 0%;
   margin: 0%;
   overflow: hidden;
-  font-family: "Roboto";
-  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1{
